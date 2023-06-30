@@ -1,0 +1,17 @@
+{
+    "name": "abe/playground",
+    "description": "php playground for filament, laravel",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Abe\\Playground\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abegail Isidro",
+            "email": "chabbyabe@gmail.com"
+        }
+    ],
+    "require": {}
+}
