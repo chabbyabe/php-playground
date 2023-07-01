@@ -1,2 +1,0 @@
-# php-playground
-Php Playground
